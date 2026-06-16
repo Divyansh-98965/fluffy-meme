@@ -1,5 +1,4 @@
 # fluffy-meme
 This is an experimental git repository
 <br>
-cuh
-</br>
+but still please take it seriously
